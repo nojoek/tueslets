@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Name:</b>
+  <%= @planner.name %>
+</p>
+
+<p>
+  <b>Email:</b>
+  <%= @planner.email %>
+</p>
+
+<p>
+  <b>Password digest:</b>
+  <%= @planner.password_digest %>
+</p>
+
+<p>
+  <b>Phone:</b>
+  <%= @planner.phone %>
+</p>
+
+<p>
+  <b>Zip:</b>
+  <%= @planner.zip %>
+</p>
+
+
+<%= link_to 'Edit', edit_planner_path(@planner) %> |
+<%= link_to 'Back', planners_path %>

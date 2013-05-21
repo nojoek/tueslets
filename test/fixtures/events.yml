@@ -1,0 +1,25 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  title: MyString
+  loc1: MyString
+  loc2: MyString
+  loc3: MyString
+  loc4: MyString
+  time1: 2013-05-21 07:22:59
+  time2: 2013-05-21 07:22:59
+  time3: 2013-05-21 07:22:59
+  time4: 2013-05-21 07:22:59
+  description: MyText
+
+two:
+  title: MyString
+  loc1: MyString
+  loc2: MyString
+  loc3: MyString
+  loc4: MyString
+  time1: 2013-05-21 07:22:59
+  time2: 2013-05-21 07:22:59
+  time3: 2013-05-21 07:22:59
+  time4: 2013-05-21 07:22:59
+  description: MyText
